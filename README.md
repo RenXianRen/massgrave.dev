@@ -1,1 +1,1 @@
-This site (https://massgrave.dev/) is built using [Docusaurus](https://docusaurus.io/).
+该网站 (https://massgrave.dev/) 是使用构建的。 [Docusaurus](https://docusaurus.io/).
